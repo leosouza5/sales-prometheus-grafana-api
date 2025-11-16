@@ -5,6 +5,10 @@ Este projeto implementa uma API simples de Vendas e Categorias utilizando **Node
 Foi desenvolvido como atividade prática de Observabilidade, infraestrutura e monitoramento.
 
 ---
+![WhatsApp Image 2025-11-16 at 20 28 32](https://github.com/user-attachments/assets/04502574-22e6-44de-bb67-6d5536e5be66)
+
+
+---
 
 ##  Tecnologias Utilizadas
 
