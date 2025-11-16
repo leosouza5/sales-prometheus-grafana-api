@@ -1,0 +1,19 @@
+{
+  "name": "prometheus-grafana-metrics-api",
+  "version": "1.0.0",
+  "description": "API simples de vendas e categorias com PostgreSQL e métricas Prometheus",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.0",
+    "prom-client": "^15.0.0",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
